@@ -1,2 +1,2 @@
 # pi-stuff
-Extensions and skills for the pi coding agent
+Extensions and skills for the [pi coding agent](https://pi.dev)
